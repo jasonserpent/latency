@@ -1,10 +1,10 @@
-Digital Ocean latency checker
+Latency checker
 =============================
 
 .. image:: https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg
     :target: https://saythanks.io/to/dizballanze
 
-Digital Ocean latency checker helps to find fastest DO region from your location.
+NOTE: a Clone of Digital Ocean latency checker helps to find fastest DO region from your location.
 
 INSTALLATION
 ------------
