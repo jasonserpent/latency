@@ -1,9 +1,6 @@
 Latency checker
 =============================
 
-.. image:: https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg
-    :target: https://saythanks.io/to/dizballanze
-
 NOTE: a Clone of Digital Ocean latency checker helps to find fastest DO region from your location.
 
 INSTALLATION
@@ -15,8 +12,6 @@ INSTALLATION
 
 USAGE
 -----
-
-.. image:: https://raw.githubusercontent.com/dizballanze/do-latency/master/usage.gif
 
 -  **-h, --help** - show help
 -  **--ping-count** - count of ICMP requests for latency check (default: 10)
